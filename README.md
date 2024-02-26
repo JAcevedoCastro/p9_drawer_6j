@@ -18,7 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
 # Mi Diseño Drawer y sus caracteristicas
-![image](https://github.com/JAcevedoCastro/p9_drawer_6j/assets/144373213/890f2037-feda-4504-87d9-65baeea502d0)
+- ![image](https://github.com/JAcevedoCastro/p9_drawer_6j/assets/144373213/c31a8ca1-2c68-419d-a657-9c530a665cd5)
+
+- ![image](https://github.com/JAcevedoCastro/p9_drawer_6j/assets/144373213/d714d4a1-4477-4c16-8b1c-c60214aaf6ca)
 
 ## Link De Referencia
 - https://codesinsider.com/flutter-appbar-example-tutorial/
